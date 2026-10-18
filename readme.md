@@ -1,3 +1,3 @@
 # README
 
-base readme file.
+An implementation of an Algorithm to generate possible candidates for a spelling bee puzzle.
